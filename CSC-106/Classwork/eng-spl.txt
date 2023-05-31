@@ -1,0 +1,8 @@
+the:el 
+dog:perro
+barks:ladra
+cat:gato 
+is:es
+sleeping:dormido
+growls:gruñidos
+at:a

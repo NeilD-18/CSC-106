@@ -1,0 +1,8 @@
+the:der
+dog:hund
+barks:bellt
+cat:katze
+is:ist
+sleeping:schlafend
+growls:knurrt
+at:an
